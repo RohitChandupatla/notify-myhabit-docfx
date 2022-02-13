@@ -1,0 +1,848 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/s542423/Documents/GitHub/notify-myhabit",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "o96/a/MVv9Thaali16h0RPLqHRbNbE/DOL+5wDZZy/M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.AddHabitDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.AddHabitDataHandler.html",
+          "hash": "356zEuBG5weZcTkZVxHMzUdzGfP7YXLMyYDrd9DAAVQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.AdminLoginDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.AdminLoginDataHandler.html",
+          "hash": "qxMI5HbEH83ck04ap0oZ5EQJs5R34dr63qrUXjy97qY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.AllocatePointDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.AllocatePointDataHandler.html",
+          "hash": "paFyTI8JWE3I+9TMzShy/swAJzx6cxomVjzkl6MN3Gs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.ForgotPasswordDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.ForgotPasswordDataHandler.html",
+          "hash": "M99HbipIRlAbIEGkGvSARu/GOl+dt4w0WrOhiupiT64="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.LoginDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.LoginDataHandler.html",
+          "hash": "O9WfkNCXEHFnj60QxXOWOYT7g2N1Ur+TRcuyUsI0/bM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.RandomHabit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.RandomHabit.html",
+          "hash": "7ifL+YUnxtTtAU4UoiD8R6WUwz6Y2f0VObuBsqdUZl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.ResetPasswordDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.ResetPasswordDataHandler.html",
+          "hash": "PQeYh5xwtrRits0QdVDwyStiLL9S7iw+OfTgvzT1k4o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.SignUpDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.SignUpDataHandler.html",
+          "hash": "GDJCjNmczpjCH13B0g97oN8LxDXNtfNKS1YPJr+QS8c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.UpdateHabitDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.UpdateHabitDataHandler.html",
+          "hash": "7YAQQqZHDYVF8PtqW3i7cMXzlwKk/6OCTFeDj/Mpsns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.UserDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.UserDataHandler.html",
+          "hash": "ptvMmNuONyUJ1cDfmpInqNQJhtW5A1Nx0KM7Ciwb02k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.ViewHabitDataHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.ViewHabitDataHandler.html",
+          "hash": "YXnk4TpBmzB6+U480SYb9H/cUEI0/gsWkndxm9DHVN4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.Childerns.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.Childerns.html",
+          "hash": "d82Pv65SL0CHZhVxsuo2AIKOmJsJruB8Ls+9waYi/qQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.DBHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.DBHandler.html",
+          "hash": "fwuJUOko0n8pQ5alUt8XsTBPmcZBnoMbWfzIth17OVY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DBHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DBHandler.html",
+          "hash": "8PE39KlrgvhBwjzCWY1aqzgeIG1mvowJ/Nwr1f9soA8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.DatabaseUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.DatabaseUtil.html",
+          "hash": "McrOoEb4jJHxxw5xVGV2ZwzecWkl04rss94Df3E6A+4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.AddHabitDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.AddHabitDataModel.html",
+          "hash": "aiY2r3S7A4cv9WK1A0XeOgnl9sX1bjsTM6PvmkrxITc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.AllocatePointModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.AllocatePointModel.html",
+          "hash": "Je9jkPjMeuT9CR2lUppl2beW7SjibgmmW+fmSWB8jRs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.ForgotDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.ForgotDataModel.html",
+          "hash": "q+e7cn/JOBq63MUyKEcrXayxD9bf7WdaMvL5dUFgrAQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.HabitModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.HabitModel.html",
+          "hash": "u8nwQkHivcSqQr6xcPILq68MgYr2R2QIRZ/BaWIAdd8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.LoginCredentialsModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.LoginCredentialsModel.html",
+          "hash": "KAXAEqlnJCn5RX6UwT/rAze+BXedAYqEqhT1W1f9tVg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.LoginDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.LoginDataModel.html",
+          "hash": "ItjeY42DLWFbvkYJf/hduZu8XjpwPHZS1gQx0jLX0nA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.LoginSucessDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.LoginSucessDTO.html",
+          "hash": "Wr5Q/uVp77RfzApSbe0xM/qbenyoqNvw8SgDEGpSepg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.ResetPasswordDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.ResetPasswordDataModel.html",
+          "hash": "OmkC0n1nNKzX1gDOFxf7pY8Wknd+eolsOzFY31HMChM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.SignUpDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.SignUpDataModel.html",
+          "hash": "qNW4uit/lDk4IOPHkQcbnVD7osJoPYFcGRyq2Bka1UI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.UpdateHabitModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.UpdateHabitModel.html",
+          "hash": "7YkvSrZBQNi670QHjwfDVAwr9txldA5QsjbC+paegng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.UserModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.UserModel.html",
+          "hash": "8txjoBumLC8qnsMhAEyTdmv2ddUo+m6I0r0YEBQ04jE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Models.html",
+          "hash": "NSCFRpu10Nu5RLqJdx7EMMUX9c0JdNfcw25emZK1Vew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.AddHabitModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.AddHabitModel.html",
+          "hash": "w9R41a2X45bBPxdigPj+sDCnPJ0Tsj+F/7k7Xc4NoNw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.AdminAllocatePointsModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.AdminAllocatePointsModel.html",
+          "hash": "/n8sP4hU4bLgADfSOoPPfLb77U2H5BdUhAy7n8bVqs0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.AdminLoginModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.AdminLoginModel.html",
+          "hash": "AejNrwDoLZ+Yvs4+RAThvdiwBpjov3V3ZcyRrPlhrs0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.ErrorModel.html",
+          "hash": "Olj9FoN1M/440KGnehkLqoPwaAZb/ISa6nV2Dn2PZB0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.ForgetPasswordModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.ForgetPasswordModel.html",
+          "hash": "Ozw0FzrtSVPs3EMmLNL94AcdUM2YfUn8CiU0cyvJXx4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.IndexModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.IndexModel.html",
+          "hash": "JNmK3qzUhyzjKIVniX7Q2Z7rpo6f9o7QrZmQlB3vL5Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.LandingPageModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.LandingPageModel.html",
+          "hash": "W+tVtsH8ob8CnayFUN1SdrTzI3LzTUZl4dR4MbnyWS8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.LoginModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.LoginModel.html",
+          "hash": "MvMUpyk+U4aLG8GmxnhJUJL42SceW1SbsMZdeu6pGhs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.ResetPasswordModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.ResetPasswordModel.html",
+          "hash": "7WEv78LX9jChHhFzUBnCWb/VCvJeRAj+u83HRxInncE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.SignupModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.SignupModel.html",
+          "hash": "4taoP84hXa+1yPMCHt7IMnFhfFPbadqRgptKNi2p94I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.UpdateHabit_Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.UpdateHabit_Model.html",
+          "hash": "lSiv9bPFsIYwwGnsjzlHlwFkzki1vh5k1S5uXYqvHLM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.ViewHabitsModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.ViewHabitsModel.html",
+          "hash": "btkn73A/hE1yps5enBhNqMjgAHAQE2IcWiI4a9SZ+zM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.ViewSingleHabitModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.ViewSingleHabitModel.html",
+          "hash": "UIsWSrClcI12V2teHWvFFKnZ+Wi7/id5WfvGha1IvaQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.ViewUserAdminPageModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.ViewUserAdminPageModel.html",
+          "hash": "DpMXI1x3JCg2wAFcd58b+BzBAArgdAqT9pTkygnKAGU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Pages.html",
+          "hash": "CfwOAhVhDcLPL0BcfShUOizl0UoK8ju6FyPxUWGmhWA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Program.html",
+          "hash": "gCJ2ed6JXS8sWkx1WywlGg57zZLtN41s+96KEdKVyoo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.AddHabitImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.AddHabitImpl.html",
+          "hash": "0ncTgRNxXkfIcFB5y56oWSDUC1chdH09JZvpFJgjvic="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.AdminLoginImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.AdminLoginImpl.html",
+          "hash": "kVa903vB8FXtb6waPc0PxfcjGlqz0R9Fh/Dk+STz+uk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.AllocatePointsImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.AllocatePointsImpl.html",
+          "hash": "p6CDX0aPSr/4c8ziaxLs8IlUuW4IKWG7a7j/3OPA+rk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.ForgotPasswordImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.ForgotPasswordImpl.html",
+          "hash": "NJYPTC5WJXfxbnyi3NTrDSUDbXK4Jfg8zFPydunyYuo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.LoginImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.LoginImpl.html",
+          "hash": "1gXpeJWjtkJc3y8yg/gAdSCkIRxXzp25fYbTLsV0zQ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.ResetPasswordImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.ResetPasswordImpl.html",
+          "hash": "5pyxwTh0W8CGZG/62S4y3ChgBEus6XTQEetlbGNQ8Xw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.SignUpImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.SignUpImpl.html",
+          "hash": "RbsjmxosCwiR7oXz7/a223VvjbKCevwfhyIdAKNAbEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.UpdateHabitImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.UpdateHabitImpl.html",
+          "hash": "I8VAfR/JbdYilK/KjvHgUYAQsvnQojrrV91zsxrkIs8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.ViewHabitImpl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.ViewHabitImpl.html",
+          "hash": "XzFWh5jebMzH5pmZpjx8Z+vVs/HkfMCVZZVAtS5eLUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Implementations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Implementations.html",
+          "hash": "9EEbldvUJsFMQss1ibI4OzrMmsfyrlHtKbLyww4GtRc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Interfaces.IAllocatePoints.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Interfaces.IAllocatePoints.html",
+          "hash": "qchwnAV0rBMABeizHZspR6I8p1Rj6RLJ/29C+yYGawI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Services.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Services.Interfaces.html",
+          "hash": "9e3li1lytcu1CluNrJYjt5fEb73c4JbmGyO1ceR/n4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Startup.html",
+          "hash": "rew8Ssjw69asvok2n6y2gYinWLuvGZjGv5pApgq7uag="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Utils.Hashing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Utils.Hashing.html",
+          "hash": "NS+HKrfCo5+apVDutdZpoQawV+zj7wwRgiWjmyAabA4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.Utils.html",
+          "hash": "ITnNHpeF23WD6Z6hFASxfplIzyluDYyyVH2Rxz/ZXwA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HabitApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HabitApp.html",
+          "hash": "qI7BlUQmPPM6d5SBb8fMqb5o6eUqX9sSorvUw50G0G8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "y62bCGSFdLuW1zcKCjSbV7wKd5F66nOkl0Gjt0BN+uU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "pJf82As9MzZyMnPOhEX6eivg2MjVgLHi9g0dfBAH9tU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "e8zlm/eNFqhvmbkDAxJWuD4DpEH8qv/UdCW6tUNpqT4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "itTPwJOwqUNMsntm/9PrRD/ELxYFy6IQ7LeyAu9gFsE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 59,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
